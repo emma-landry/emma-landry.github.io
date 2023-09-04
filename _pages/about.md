@@ -17,6 +17,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Boom
 
 I am a third year PhD student in Biostatistics at UCLA, working with [Donatello Telesca](http://donatello-telesca.com/). My current research focuses on Bayesian methods in functional data analysis, particularly curve registration, with applications to neuroscience.
 
