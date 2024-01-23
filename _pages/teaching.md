@@ -17,7 +17,7 @@ Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
 Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
 
 <font size="+2"><strong>BIOSTAT 250C: Multivariate Biostatistics</strong></font> <br />
-<font size="+1"><em>Spring 2022</em></font> <br />
+<font size="+1"><em>Spring 2023</em></font> <br />
 Teaching Assistant, Instructor: Dr.Donatello Telesca
 
 
