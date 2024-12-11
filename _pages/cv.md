@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /assets/pdf/CV_Dec24.pdf
-title: resume
+title: cv
 nav: true
 nav_order: 3
 ---
