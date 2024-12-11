@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ph.ucla.edu/departments/biostatistics'>UCLA Biostatistics</a>. emmalandry [at] ucla [dot] edu
+subtitle: <a href="https://ph.ucla.edu/departments/biostatistics">UCLA Biostatistics</a>. emmalandry [at] ucla [dot] edu
 
 profile:
   align: right
