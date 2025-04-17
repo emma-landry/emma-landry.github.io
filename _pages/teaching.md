@@ -24,12 +24,6 @@ Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
 <font size="+1"><em>Fall 2022</em></font> <br />
 Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
 
-
-
-
-
-
-
 <h2 class="category">{{"imperial"}}</h2>
 <font size="+2"><strong>Undergraduate Teaching Assistant</strong></font> <br />
 <font size="+1"><em>2020-2021 Academic Year</em></font> <br />
