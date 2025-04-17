@@ -8,17 +8,25 @@ nav_order: 4
 ---
 <div class="teaching">
 <h2 class="category">{{"ucla"}}</h2>
-<font size="+2"><strong>BIOSTAT 250A: Linear Statistical Models</strong></font> <br />
-<font size="+1"><em>Fall 2022</em></font> <br />
-Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
+<font size="+2"><strong>BIOSTAT 406: Applied Multivariate Biostatistics </strong></font> <br />
+<font size="+1"><em>Spring 2025</em></font> <br />
+Teaching Assistant, Instructor: Dr. Donatello Telesca<br /><br />
+
+<font size="+2"><strong>BIOSTAT 250C: Multivariate Biostatistics</strong></font> <br />
+<font size="+1"><em>Spring 2023</em></font> <br />
+Teaching Assistant, Instructor: Dr.Donatello Telesca
 
 <font size="+2"><strong>BIOSTAT 250B: Linear Statistical Models</strong></font> <br />
 <font size="+1"><em>Winter 2023</em></font> <br />
 Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
 
-<font size="+2"><strong>BIOSTAT 250C: Multivariate Biostatistics</strong></font> <br />
-<font size="+1"><em>Spring 2023</em></font> <br />
-Teaching Assistant, Instructor: Dr.Donatello Telesca
+<font size="+2"><strong>BIOSTAT 250A: Linear Statistical Models</strong></font> <br />
+<font size="+1"><em>Fall 2022</em></font> <br />
+Teaching Assistant, Instructor: Dr. Weng Kee Wong<br /><br />
+
+
+
+
 
 
 
