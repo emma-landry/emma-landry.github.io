@@ -14,7 +14,7 @@ Teaching Assistant, Instructor: Dr. Donatello Telesca<br /><br />
 
 <font size="+2"><strong>BIOSTAT 250C: Multivariate Biostatistics</strong></font> <br />
 <font size="+1"><em>Spring 2023</em></font> <br />
-Teaching Assistant, Instructor: Dr.Donatello Telesca<br /><br />
+Teaching Assistant, Instructor: Dr. Donatello Telesca<br /><br />
 
 <font size="+2"><strong>BIOSTAT 250B: Linear Statistical Models</strong></font> <br />
 <font size="+1"><em>Winter 2023</em></font> <br />
