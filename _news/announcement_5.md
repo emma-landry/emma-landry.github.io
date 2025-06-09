@@ -5,4 +5,4 @@ date: 2025-05-29 16:11:00-0400
 inline: true
 ---
 
-Awarded the UCLA Dissertation Year Award.
+Received the UCLA Dissertation Year Award.
