@@ -17,12 +17,14 @@ layout: default
 
     <article>
       <div class="clearfix">
-        {{ content }}
-      </div>
+  {{ content }}
+</div>
 
-      {% if page.news -%}
-        {%- include news.html %}
-      {%- endif %}
+{% if page.news -%}
+  <div style="clear: both; margin-top: 2rem;">
+    {%- include news.html %}
+  </div>
+{%- endif %}
       {% if page.selected_papers -%}
         {%- include selected_papers.html %}
       {%- endif %}
@@ -40,7 +42,7 @@ layout: default
   </div>
 
   {% if page.profile -%}
-  <div class="profile" style="min-width: 200px;">
+  <div class="profile" style="min-width: 200px; margin-top: 0.25rem;">
     {% if page.profile.image %}
       {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
       {% if page.profile.image_cicular %}
