@@ -28,7 +28,7 @@ nav_order: 4
     position: absolute;
     bottom: 0;
     left: 0;
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.45);
     padding: 4px 8px;
     border-bottom-left-radius: 8px;
     font-size: 0.9em;
