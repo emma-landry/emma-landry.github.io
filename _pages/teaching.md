@@ -31,6 +31,7 @@ nav_order: 4
     background: rgba(255, 255, 255, 0.45);
     padding: 4px 8px;
     border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
     font-size: 0.9em;
     color: #333;
     font-style: italic;
