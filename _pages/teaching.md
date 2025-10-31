@@ -6,12 +6,11 @@ description:
 nav: true
 nav_order: 4
 ---
-{% raw %}
 <figure style="
   position: relative;
   margin: 20px 0 40px 0;
   max-width: 885px;
-  overflow: visible;
+  overflow: visible;  /* ensures image + caption remain visible */
 ">
   <img
     src="{{ '/assets/img/IMG_4650.jpeg' | relative_url }}"
@@ -22,7 +21,6 @@ nav_order: 4
       border-radius: 8px;
       display: block;
       box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-      position: relative;
       z-index: 0;
     "
   >
@@ -41,8 +39,6 @@ nav_order: 4
     Discussing math with my compatriots Banach and Nikodym
   </figcaption>
 </figure>
-{% endraw %}
-
 <div class="teaching">
 <h2 class="category">{{"ucla"}}</h2>
 <font size="+2"><strong>BIOSTAT 406: Applied Multivariate Biostatistics </strong></font> <br />
