@@ -6,16 +6,9 @@ description:
 nav: true
 nav_order: 4
 ---
-<div style="
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  overflow: hidden;
-  margin-top: 20px;
-  margin-bottom: 40px;
+<figure style="
+  margin: 20px 0 40px 0;
+  max-width: 885px;
 ">
   <img
     src="{{ '/assets/img/IMG_4650.jpeg' | relative_url }}"
@@ -23,12 +16,12 @@ nav_order: 4
     style="
       width: 100%;
       height: auto;
+      border-radius: 8px;
       display: block;
-      object-fit: cover;
-      min-height: 350px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     "
   >
-</div>
+</figure>
 
 <div class="teaching">
 <h2 class="category">{{"ucla"}}</h2>
