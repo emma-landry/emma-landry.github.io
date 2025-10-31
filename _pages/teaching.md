@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 4
 ---
+{% raw %}
 <figure style="
   position: relative;
   margin: 20px 0 40px 0;
   max-width: 885px;
-  overflow: visible;
 ">
   <img
     src="{{ '/assets/img/IMG_4650.jpeg' | relative_url }}"
@@ -27,20 +27,21 @@ nav_order: 4
   >
   <figcaption style="
     position: absolute;
-    bottom: 0;
-    left: 0;
+    bottom: 12px;
+    left: 16px;
     background: rgba(255, 255, 255, 0.75);
-    padding: 4px 8px;
-    border-bottom-left-radius: 8px;
+    padding: 6px 10px;
+    border-radius: 4px;
     font-size: 0.9em;
     color: #333;
     font-style: italic;
     z-index: 2;
-    line-height: 1.2;
   ">
     Discussing math with my compatriots Banach and Nikodym
   </figcaption>
 </figure>
+{% endraw %}
+
 <div class="teaching">
 <h2 class="category">{{"ucla"}}</h2>
 <font size="+2"><strong>BIOSTAT 406: Applied Multivariate Biostatistics </strong></font> <br />
