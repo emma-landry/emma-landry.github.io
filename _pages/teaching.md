@@ -20,18 +20,21 @@ nav_order: 4
       border-radius: 8px;
       display: block;
       box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      position: relative;
+      z-index: 0;
     "
   >
   <figcaption style="
     position: absolute;
-    bottom: 10px;
-    left: 15px;
+    bottom: 12px;
+    left: 16px;
     background: rgba(255, 255, 255, 0.75);
     padding: 6px 10px;
     border-radius: 4px;
     font-size: 0.9em;
     color: #333;
     font-style: italic;
+    z-index: 2;
   ">
     Discussing math with my compatriots Banach and Nikodym
   </figcaption>
