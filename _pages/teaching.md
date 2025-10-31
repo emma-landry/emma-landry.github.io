@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 <figure style="
+  position: relative;
   margin: 20px 0 40px 0;
   max-width: 885px;
 ">
@@ -21,6 +22,19 @@ nav_order: 4
       box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     "
   >
+  <figcaption style="
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #333;
+    font-style: italic;
+  ">
+    Discussing math with my compatriots Banach and Nikodym
+  </figcaption>
 </figure>
 
 <div class="teaching">
