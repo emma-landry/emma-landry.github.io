@@ -39,7 +39,7 @@ nav_order: 1
     font-style: italic;
     z-index: 2;
   ">
-    My home, Paris
+    Paris, my hometown
   </figcaption>
 </figure>
 <div class="publications">

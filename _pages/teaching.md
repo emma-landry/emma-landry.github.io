@@ -37,7 +37,7 @@ nav_order: 4
     font-style: italic;
     z-index: 2;
   ">
-    Discussing math with my compatriots Banach and Nikodym
+    Discussing math with my compatriots, Banach and Nikodym
   </figcaption>
 </figure>
 <div class="teaching">
