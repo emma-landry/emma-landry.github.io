@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
+{% raw %}
 <figure style="
   position: relative;
   margin: 20px 0 40px 0;
@@ -39,6 +40,7 @@ nav_order: 4
     Discussing math with my compatriots Banach and Nikodym
   </figcaption>
 </figure>
+{% endraw %}
 
 <div class="teaching">
 <h2 class="category">{{"ucla"}}</h2>
