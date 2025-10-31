@@ -11,6 +11,7 @@ nav_order: 4
   position: relative;
   margin: 20px 0 40px 0;
   max-width: 885px;
+  overflow: visible;
 ">
   <img
     src="{{ '/assets/img/IMG_4650.jpeg' | relative_url }}"
@@ -27,11 +28,11 @@ nav_order: 4
   >
   <figcaption style="
     position: absolute;
-    bottom: 12px;
-    left: 16px;
+    bottom: 0;
+    left: 0;
     background: rgba(255, 255, 255, 0.75);
-    padding: 6px 10px;
-    border-radius: 4px;
+    padding: 4px 8px;
+    border-bottom-left-radius: 8px;
     font-size: 0.9em;
     color: #333;
     font-style: italic;
