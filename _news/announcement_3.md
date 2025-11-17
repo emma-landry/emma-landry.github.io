@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2022-09-23 16:11:00-0400
+date: 2024-03-20 16:11:00-0400
 inline: true
 ---
 
-Passed my comprehensive and qualifying written exams.
+Advanced to candidacy.
