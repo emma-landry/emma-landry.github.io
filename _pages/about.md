@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://ph.ucla.edu/departments/biostatistics">UCLA Biostatistics</a>. emmalandry [at] ucla [dot] edu
+subtitle: Johns Hopkins University. elandry3 [at] jh [dot] edu.
 
 profile:
   align: right
@@ -17,7 +17,11 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a fifth year PhD candidate in Biostatistics at UCLA, working with [Donatello Telesca](http://donatello-telesca.com/). Prior to joining UCLA, I obtained my integrated masters in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I completed a thesis under the supervision of [Seth Flaxman](https://sethrf.com/).
+I am a postdoctoral research fellow in the [Department of Oncology, Division of Quantitative of Sciences](https://oncologyqs.jhmi.edu/) and the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University, where I work with [Zheyu Wang](https://profiles.hopkinsmedicine.org/provider/zheyu-wang/2777733) and [Brian Caffo](https://sites.google.com/view/bcaffo/home). My current research focuses on the development of methodologies for utilizing high dimensional biomarker data in the early diagnosis of Alzheimer's disease.
+
+Broadly, my interests include Bayesian statistics, functional data analysis, analysis of complex non-Euclidean biomedical object data, applications to neuroimaging. I have also been interested in problems related to domain adaptation, transportability of Bayesian machine learning models, precision cancer medicine.
+
+I obtained my PhD in Biostatistics at UCLA under the supervision of [Donatello Telesca](http://donatello-telesca.com/). Before that, I got my integrated masters in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/).
 
 My research interests include Bayesian statistics, functional data analysis, analysis of complex non-Euclidean biomedical object data, applications to neuroimaging. In some of my recent work I have also been interested in domain adaptation, transportability of Bayesian machine learning models, precision cancer medicine.
 
