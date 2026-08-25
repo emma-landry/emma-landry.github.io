@@ -23,6 +23,4 @@ Broadly, my interests include Bayesian statistics, functional data analysis, ana
 
 I obtained my PhD in Biostatistics at UCLA under the supervision of [Donatello Telesca](http://donatello-telesca.com/). Before that, I got my integrated masters in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/).
 
-My research interests include Bayesian statistics, functional data analysis, analysis of complex non-Euclidean biomedical object data, applications to neuroimaging. In some of my recent work I have also been interested in domain adaptation, transportability of Bayesian machine learning models, precision cancer medicine.
-
 I am currently the Secretary of the [Junior Section of the International Society for Bayesian Analysis (j-ISBA)](https://j-isba.github.io/index.html).
