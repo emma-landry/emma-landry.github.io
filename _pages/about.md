@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Johns Hopkins University. elandry3 [at] jh [dot] edu.
+subtitle: elandry3 [at] jh [dot] edu.
 
 profile:
   align: right
@@ -21,6 +21,6 @@ I am a postdoctoral research fellow in the [Department of Oncology, Division of 
 
 Broadly, my interests include Bayesian statistics, functional data analysis, analysis of complex non-Euclidean biomedical object data, applications to neuroimaging. I have also been interested in problems related to domain adaptation, transportability of Bayesian machine learning models, precision cancer medicine.
 
-I obtained my PhD in Biostatistics at UCLA under the supervision of [Donatello Telesca](http://donatello-telesca.com/). Before that, I got my integrated masters in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/).
+I obtained my PhD in Biostatistics at [UCLA]() under the supervision of [Donatello Telesca](http://donatello-telesca.com/). Before that, I got my integrated masters in Mathematics from [Imperial College London](https://www.imperial.ac.uk/mathematics/), where I worked with [Seth Flaxman](https://sethrf.com/).
 
 I am currently the Secretary of the [Junior Section of the International Society for Bayesian Analysis (j-ISBA)](https://j-isba.github.io/index.html).
